@@ -1,7 +1,7 @@
 # Planarity
 The popular puzzle game [Planarity](https://en.wikipedia.org/wiki/Planarity) implemented on the Mbed platform.
 
-This application/project was developed as a part of the undergraduate elective course "Embedded Systems", offered by the Faculty of Electrical Engineering, University of Sarajevo.
+This application/project was developed as part of the undergraduate elective course "Embedded Systems", offered by the Faculty of Electrical Engineering, University of Sarajevo.
 
 The goal of the project was to develop a version of the popular puzzle game Planarity for the Mbed platform. Considering the project was done in 2021, due to COVID-19 restrictions, the project was tested on the Arm Mbed OS simulator. In the simulator the ST7789H2 LCD + FT6x06 Touch Screen combo was used.
 
@@ -13,4 +13,4 @@ The repository only contains the source code and is only used for presentation p
 
 Project done by:
 - [Ahmed Imamović](https://github.com/aimamovic6)
-- [Dženan Kreho](https://github.com/dkreho1)
+- [Dženan Kreho](https://github.com/dzenankreho)
